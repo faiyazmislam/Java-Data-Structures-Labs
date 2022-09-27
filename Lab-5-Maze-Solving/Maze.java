@@ -3,6 +3,8 @@ import java.awt.GridLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+
+//RUN THIS FILE TO ACTIVATE PROGRAM
 public class Maze extends JFrame {
 
 	public Maze() {
