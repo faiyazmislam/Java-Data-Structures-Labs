@@ -160,7 +160,8 @@ public class ArrayListAssignment {
 
     public static List<String> stringToListOfWords(String givenString){
         //webpage I used to help me figure out how to use the split() method: https://www.geeksforgeeks.org/split-string-java-examples/
-        //webpage I used to help me remove punctuation from the words with the replaceAll method: https://www.geeksforgeeks.org/how-to-remove-all-non-alphanumeric-characters-from-a-string-in-java/
+        //webpage I used to help me remove punctuation from the words with the replaceAll method: 
+        //https://www.geeksforgeeks.org/how-to-remove-all-non-alphanumeric-characters-from-a-string-in-java/
         List<String> listOfWords = new ArrayList<>();   //new list
         int limit = 1;                                  //limit is set to 1 so the loop doesn't miss the last space
 
